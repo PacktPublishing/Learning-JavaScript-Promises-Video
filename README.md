@@ -10,6 +10,7 @@ Starting from the basics of resolving and rejecting Promises, we will gradually 
 
 This course will not only make you feel comfortable utilizing Promises when they are provided, but will also make you appreciate how much easier they can make your programming in the future. You will gain hands-on, real-life knowledge and experience of a great technology that is on the rise.
 
+## What Will You Learn
 <DIV class=book-info-will-learn-text>
 <UL>
 <LI>Create your own Promises to handle asynchronous processes
