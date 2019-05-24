@@ -35,10 +35,7 @@ This is a feature-packed and a hands-on course that contains up to 18 widgets, e
  Basics in Angular.js 
 
 
-## Related Products
 
-*[Learning Angular Services [Video]] (https://www.packtpub.com/web-development/learning-angular-services-video)
-*[Learning Angular 7 [Video]] (https://www.packtpub.com/web-development/learning-angular-7-video)
 
 
 
